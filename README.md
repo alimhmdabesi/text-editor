@@ -45,14 +45,14 @@ redo
 print
 exit
 ```
-
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/alimhmdabesi/text-editor.git
 cd text-editor
-## Compile
+
+# Compile
 g++ text_editor.cpp -o text_editor
 ```
