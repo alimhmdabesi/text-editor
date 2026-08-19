@@ -52,7 +52,7 @@ exit
 
 ```bash
 git clone
-cd cpp-text-editor
+cd text-editor
 ## Compile
 g++ text_editor.cpp -o text_editor
 ```
