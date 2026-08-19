@@ -51,7 +51,7 @@ exit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AliMhmdAbesi/cpp-text-editor.git
+git clone
 cd cpp-text-editor
 ## Compile
 g++ text_editor.cpp -o text_editor
