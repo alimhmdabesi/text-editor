@@ -55,4 +55,7 @@ cd text-editor
 
 # Compile
 g++ text_editor.cpp -o text_editor
+
+# Run 
+`./text_editor`
 ```
