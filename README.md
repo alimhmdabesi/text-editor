@@ -44,6 +44,7 @@ undo
 redo
 print
 exit
+```
 
 ## 🚀 Getting Started
 
@@ -54,3 +55,4 @@ git clone https://github.com/AliMhmdAbesi/cpp-text-editor.git
 cd cpp-text-editor
 ## Compile
 g++ text_editor.cpp -o text_editor
+```
